@@ -1,5 +1,7 @@
 ### Hi I'm Vincent!
+I'm currently enrolled for a master degree at UniPi in Artificial Intelligence, my main interests are neuroscience and it's connections to machine learning, generative AI methods mainly applied to music and also dynamical systems.
 
+Sometimes I like to code...
 <!--
 **U-n-Own/U-n-Own** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
