@@ -1,7 +1,5 @@
 ### Hi I'm Vincent!
-I'm currently enrolled for a master degree at UniPi in Artificial Intelligence, my main interests are neuroscience and it's connections to machine learning, generative AI methods mainly applied to music and also dynamical systems.
-
-Sometimes I like to code...
+I'm currently enrolled for a master degree at UniPi in Artificial Intelligence, my intrests revolves around Machine Learning and Computational Neuroscience approaches.
 
 
 ![](https://komarev.com/ghpvc/?U-n-Own&color=green)
