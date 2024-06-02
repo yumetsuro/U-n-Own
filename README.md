@@ -1,5 +1,5 @@
 ### Hi I'm Vincent!
-I'm currently enrolled for a master degree at UniPi in Artificial Intelligence, my intrests revolves around Machine Learning and Computational Neuroscience approaches.
+I'm currently enrolled for a master degree at UniPi in Artificial Intelligence, my interests revolves around Machine Learning in particular on Dynamical System behaviour of RNNs and all their family of models, i also started to approach Energy and Diffusion Based approaches
 
 
 ![](https://komarev.com/ghpvc/?U-n-Own&color=green)
