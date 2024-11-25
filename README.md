@@ -1,5 +1,5 @@
 ### Hi I'm Vincent!
-I'm currently enrolled for a master degree at UniPi in Artificial Intelligence, my interests revolves around Machine Learning in particular on Dynamical System behaviour of RNNs and all their family of models, i also started to approach Energy and Diffusion Based approaches
+I'm currently enrolled for a master degree at UniPi in Artificial Intelligence, my interests revolves around Machine Learning in particular on Recurrent Neural Network architectures, Energy Based Models and Reinforcement Learning
 
 
 ![](https://komarev.com/ghpvc/?U-n-Own&color=green)
